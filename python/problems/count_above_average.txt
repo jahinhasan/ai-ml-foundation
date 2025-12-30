@@ -1,0 +1,14 @@
+problem:
+function that takes a list of numbers && and return their avarage:
+what is givven:
+-a list oof numbers
+
+what is needed ?
+-avarage value
+
+steps:
+1.initializze the variable to store the sum = 0
+2. loop through the list and add each numbber to sum 
+3 find the length of the list 
+4.divide sum by length
+5. return the result

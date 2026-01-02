@@ -1,0 +1,19 @@
+Problem:
+
+Write a function that:
+
+Takes a list of numbers
+
+Returns a new list
+
+Each value is divided by the maximum value in the list
+
+output:
+a list where value is divided by the maxximumm value in the list
+
+step:
+1.initialize maximum= number[0]
+2.using for loop checkk if i>maximum than replace maximum with i
+2.5. make a new empty list
+3.divide each value of number list and update new list
+return the new list

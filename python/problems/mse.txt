@@ -1,0 +1,20 @@
+🔹 Task 4: Mean Squared Error (CORE ML CONCEPT)
+Problem:
+
+Write a function that:
+
+Takes two lists of equal length
+
+actual
+
+predicted
+
+Calculates Mean Squared Error (MSE)
+
+Formula: MSE = (1/n) * Σ (actual[i] - predicted[i])²
+
+step :
+1.initialize a empty list
+2.do this actual[i] - predicted[i])² using for loop
+3. append the result to the empty list
+4. make sum of all the elements of the list and divide it wwith the number of elements

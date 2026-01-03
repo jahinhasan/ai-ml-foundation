@@ -1,0 +1,16 @@
+🔹 Task 5: Gradient Intuition (WITHOUT CALCULUS FEAR)
+Problem:
+
+Write a function that:
+
+Takes:
+
+actual
+
+predicted
+
+Returns the gradient of MSE with respect to predicted
+
+step:
+1.substract actual from predict for each element then multiplyit with 2 ad divide itby length of list and append to newlist using for loop
+2. before that check if the actual and predict list ar samelength or not
